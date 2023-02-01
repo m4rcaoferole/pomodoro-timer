@@ -1,14 +1,9 @@
-import { Cycle } from '../contexts/CyclesContext'
+import { Cycle } from '../../contexts/CyclesContext'
+import { ActionTypes } from './actions'
 
 interface CycleState {
   cycles: Cycle[]
   activeCycleId: string | null
-}
-
-export enum ActionTypes {
-  ADD_NEW_CYCLE = 'ADD_NEW_CYCLE',
-  INTERRUPT_CURRENT_CYCLE = 'INTERRUPT_CURRENT_CYCLE',
-  MARK_CURRENT_CYCLE_FINISHED = 'MARK_CURRENT_CYCLE_FINISHED',
 }
 
 export function cycleReducers(state: CycleState, action: any) {
