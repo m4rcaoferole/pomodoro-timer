@@ -21,7 +21,7 @@ const BaseCountDownButton = styled.button`
   border: 0;
   padding: 1rem;
   border-radius: 8px;
-  color: ${(props) => props.theme['gray-100']};
+  color: ${(props) => props.theme['text-button']};
 
   display: flex;
   align-items: center;
@@ -37,17 +37,17 @@ const BaseCountDownButton = styled.button`
   }
 `
 export const StartCountDownButton = styled(BaseCountDownButton)`
-  background: ${(props) => props.theme['green-500']};
+  background: ${(props) => props.theme['ignite-mid']};
 
   &:not(:disabled):hover {
-    background: ${(props) => props.theme['green-700']};
+    background: ${(props) => props.theme['ignite-dark']};
   }
 `
 
 export const StopCountDownButton = styled(BaseCountDownButton)`
-  background: ${(props) => props.theme['red-500']};
+  background: ${(props) => props.theme['ec-light']};
 
   &:not(:disabled):hover {
-    background: ${(props) => props.theme['red-700']};
+    background: ${(props) => props.theme['ec-dark']};
   }
 `
