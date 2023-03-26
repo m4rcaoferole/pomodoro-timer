@@ -54,7 +54,7 @@ export function CyclesContextProvider({
       cycles: [],
       activeCycleId: null,
     },
-    () => {
+    (initialState) => {
       const storedStateJSON = localStorage.getItem(
         '@pomo-timer:cycles.state-1.0.0',
       )
@@ -62,6 +62,8 @@ export function CyclesContextProvider({
       if (storedStateJSON) {
         return JSON.parse(storedStateJSON)
       }
+
+      return initialState
     },
   )
 
