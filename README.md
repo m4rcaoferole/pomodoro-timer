@@ -1,5 +1,5 @@
 <h1>
-    <img alt="Logo Ignite" title="Logo Ignite" src="./.github/logo-ignite.svg" />
+    <img alt="Logo Ignite" title="Logo Ignite" src="./.github/logIgnite.svg" />
     Ignite Timer
 </h1>
 
@@ -54,6 +54,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/w4kGeggQGODxz9LXKUBgSo/Ignite-Timer-(Community)?node-id=2-12&t=WDaK9NrLdV9gtnLk-0). É necessário ter conta no [Figma](https://www.figma.com/) para acessá-lo.
 
+<p align="center">
+    <img alt="Capa do projeto" title="Capa do projeto" src="./.github/cover.png" />
+</p>
 
 ## 📋 Clipboard (Pré-requisitos)
 
