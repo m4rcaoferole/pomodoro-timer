@@ -1,5 +1,5 @@
 <h1>
-    <img alt="Logo Ignite" title="Logo Ignite" src="./.github/logIgnite.svg" />
+    <img alt="Logo Ignite" title="Logo Ignite" src="./.github/logoIgnite.png" />
     Ignite Timer
 </h1>
 
@@ -20,9 +20,6 @@ além de le permite ver um histórico de todos as tarefas já realizadas.
   - Utilização de formulários com `React Hook Form`
   - Aplicação de temas dark e light utilizando o `Styled Components`
   - Uso do hook `useReducer` do React para centralizar as alterações em um estado complexo
-
-## 💻 Deploy
-
 
 ## 🚀 Technologies
 
