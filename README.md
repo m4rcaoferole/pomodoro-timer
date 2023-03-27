@@ -5,6 +5,7 @@
 
 <p align="center">
  <a href="#-technologies">Technologies</a> |
+ <a href="#-deploy">Deploy</a> |
  <a href="#-layout">Layout</a> |
  <a href="#-clipboard-pré-requisitos">Clipboard</a> |
  <a href="#-settings">Settings</a>
@@ -20,6 +21,10 @@ além de le permite ver um histórico de todos as tarefas já realizadas.
   - Utilização de formulários com `React Hook Form`
   - Aplicação de temas dark e light utilizando o `Styled Components`
   - Uso do hook `useReducer` do React para centralizar as alterações em um estado complexo
+  
+## 💻 Deploy
+
+Clique no link a seguir para executar o projeto na sua máquina: <a target="_blank" href="https://pomodoro-timer-rose-pi.vercel.app">Link</a>
 
 ## 🚀 Technologies
 
