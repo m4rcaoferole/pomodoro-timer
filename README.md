@@ -54,7 +54,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/w4kGeggQGODxz9LXKUBgSo/Ignite-Timer-(Community)?node-id=2-12&t=WDaK9NrLdV9gtnLk-0). É necessário ter conta no [Figma](https://www.figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/w4kGeggQGODxz9LXKUBgSo/Ignite-Timer-(Community)?node-id=2-12&t=WDaK9NrLdV9gtnLk-0). É necessário ter conta no [Figma]([https://www.figma.com/](https://www.figma.com/design/w4kGeggQGODxz9LXKUBgSo/Ignite-Timer-(Community)?node-id=0-1&p=f&t=tHpMk1xfvDEWwbey-0)) para acessá-lo.
 
 <p align="center">
     <img alt="Capa do projeto" title="Capa do projeto" src="./.github/cover.png" />
